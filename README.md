@@ -9,3 +9,5 @@
 * Высокая скорость поиска
 * Низкая цена
 * Мы лучше Google и Яндекс
+
+* <script src="https://localhost/neuro.sdk.min.js"></script>
